@@ -1,12 +1,5 @@
-<h1>Doodle Paint5 for Pokki</h1>
-Doodle Paint5 is a simple HTML5 painting program that uses the Canvas element and mootools JavaScript library.
-It runs on the Pokki appstore (http://pokki.com)
- 
-<h2>Important source files</h2>
-app.js - Main js entrypoint for Doodle Paint<br />
-popup.js - Pokki popup wrapper<br />
-window.html - HTML entrypoint for Doodle Paint<br />
-default.css - All Doodle Paint CSS<br />
-<br />
-ToolBase.js - Abstract base class for painting Tools<br />
-*****Tool.js - Painting tool implementations, pencil, brush, circle, spray, etc.<br />
+The Great Escape
+==============
+"The Great Escape" is the very first action game I made. The game is a story about a boy striving to cross the border between North and South Korea.  The game is still in its primitive stage, though, you are welcome to play the beta version here or download it to your Android Phone.  
+
+![ScreenShot](https://raw.github.com/vinhnghi223/HTML5-GAMES/master/The%20Great%20Escape/screenshot-tge.png)
